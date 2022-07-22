@@ -1,0 +1,8 @@
+what is 2+5=....?#25#5#2#7#4
+What is 4%2=....?#4#2#0#1#3
+What is the color of black board?#red#balck#yellow#green#2
+what is the color of water?#yellow#green#no color#white#3
+Who is the founder of Python?#James#satya#bill gates#Guido Van Rossum#4
+What is the current day?#Sun#Mon#Sat#Fri#2
+what is the prime number among the given?#14#7#10#18#2
+What is the capital of TS?#Hyd#warangal#VZG#Vijayawada#1

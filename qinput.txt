@@ -1,0 +1,5 @@
+what is the color of water?#yellow#green#no color#white#3
+Who is the founder of Python?#James#satya#bill gates#Guido Van Rossum#4
+What is the current day?#Sun#Mon#Sat#Fri#2
+what is the prime number among the given?#14#7#10#18#2
+What is the capital of TS?#Hyd#warangal#VZG#Vijayawada#1
